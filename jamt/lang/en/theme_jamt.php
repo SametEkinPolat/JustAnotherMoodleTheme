@@ -17,7 +17,7 @@ $string['brandcolor'] = 'Brand colour';
 // The brand colour setting description.                                                                                            
 $string['brandcolor_desc'] = 'The accent colour.';                    
 // Name of the settings pages.                                                                                                      
-$string['configtitle'] = 'Photo settings';                                                                                          
+$string['configtitle'] = 'jamt settings';                                                                                          
 // Name of the first settings tab.                                                                                                  
 $string['generalsettings'] = 'General settings';                                                                                                                                                                                       
 // Preset files setting.                                                                                                            
